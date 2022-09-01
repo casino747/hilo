@@ -1,13 +1,13 @@
 {
-  "name": "hilo",
+  "name": "football-747",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "version": "0.1.0",
+  "description": "ไฮโลออนไลน์ เกมลูกเต๋ายอดนิยม ทำเงินได้กว่า 160 เท่า",
   "keywords": [
-    "syntax",
-    "theme"
+    "ไฮโลออนไลน์",
+    "ไฮโลออนไลน์ เกมลูกเต๋ายอดนิยม ทำเงินได้กว่า 160 เท่า"
   ],
-  "repository": "https://github.com/atom/hilo",
+  "repository": "https://github.com/casino747/hilo",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
